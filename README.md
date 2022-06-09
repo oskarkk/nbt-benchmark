@@ -13,3 +13,6 @@ Libraries I want to compare first:
   - [twoolie/NBT](https://github.com/twoolie/NBT)
   - [vberlier/nbtlib](https://github.com/vberlier/nbtlib)
   - [TowardtheStars/Python-NBT](https://github.com/TowardtheStars/Python-NBT)
+
+
+Some list of libraries: https://wiki.vg/NBT#Libraries
